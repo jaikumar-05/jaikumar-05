@@ -19,8 +19,7 @@
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
 
-
-
+ <img height="50" width="50" src="https://www.google.com/imgres?q=tailwind%20css&imgurl=https%3A%2F%2Fmwop.net%2Fimages%2Ftailwindcss.svg&imgrefurl=https%3A%2F%2Fmwop.net%2Fblog%2F2022-04-26-tailwind.html&docid=b6ptToeiB7OD9M&tbnid=TcshbnDZKXw0AM&vet=12ahUKEwiH8Yvjn92FAxWz1zgGHWVMB20QM3oECBUQAA..i&w=800&h=489&hcb=2&ved=2ahUKEwiH8Yvjn92FAxWz1zgGHWVMB20QM3oECBUQAA"/> 
 
 
 
